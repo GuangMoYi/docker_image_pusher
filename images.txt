@@ -6,4 +6,6 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 # try
 python:alpine3.19
-ghcr.io/distrobox/distrobox
+# ubuntu 22.04
+ghcr.io/distrobox/distrobox:latest
+ubuntu:22.04
