@@ -7,3 +7,5 @@ xhofe/alist:latest
 # ubuntu 22.04
 # ghcr.io/distrobox/distrobox:latest
 ubuntu:22.04
+# isaac-sim
+isaac-sim 
