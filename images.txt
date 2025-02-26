@@ -8,4 +8,4 @@ xhofe/alist:latest
 # ghcr.io/distrobox/distrobox:latest
 ubuntu:22.04
 # isaac-sim
-nvcr.io/nvidia/isaac-sim 
+nvidia/isaac-sim:latest 
