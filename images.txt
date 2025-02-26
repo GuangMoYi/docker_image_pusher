@@ -6,6 +6,6 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 # ubuntu 22.04
 # ghcr.io/distrobox/distrobox:latest
-ubuntu:22.04
+ubuntu:20.04
 # isaac-sim
 nvcr.io/nvidia/isaac-sim:4.5.0
